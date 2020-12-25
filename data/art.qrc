@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>art/icon.svg</file>
+    <file>art/power.svg</file>
+    <file>art/tun_activity.svg</file>
+    <file>art/tun.svg</file>
+    <file>art/alert.svg</file>
+    <file>art/chaticon.svg</file>
+</qresource>
+</RCC>
